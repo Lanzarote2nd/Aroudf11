@@ -132,7 +132,7 @@ export default function App() {
       <div className="min-h-screen bg-[#36393f] flex items-center justify-center">
         <div className="text-center">
           <div className="w-16 h-16 border-4 border-[#5865F2] border-t-transparent rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-white text-xl font-semibold">Aroudf10</p>
+          <p className="text-white text-xl font-semibold">Aroudf11</p>
           <p className="text-gray-400 text-sm">Loading...</p>
         </div>
       </div>
@@ -189,4 +189,4 @@ export default function App() {
       <UserPanel profile={profile} />
     </div>
   );
-          }
+}
